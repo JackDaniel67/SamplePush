@@ -5,7 +5,8 @@ public class Launch {
 
 		String s = "Kate";
 		System.out.println(s);
-		
+		boolean contains = s.contains("K");
+		System.out.println(contains);
 		
 		
 		
