@@ -5,8 +5,8 @@ public class Launch {
 
 		String s = "Kate";
 		System.out.println(s);
-		
-		
+		char charAt = s.charAt(2);
+		System.out.println(charAt);
 		
 		
 		
