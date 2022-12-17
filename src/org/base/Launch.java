@@ -5,11 +5,11 @@ public class Launch {
 
 		String s = "Kate";
 		System.out.println(s);
+		boolean contains = s.contains("K");
+		System.out.println(contains);
 		char charAt = s.charAt(2);
 		System.out.println(charAt);
-		
-		
-		
+	
 		
 		
 		
