@@ -9,8 +9,11 @@ public class Launch {
 		System.out.println(contains);
 		char charAt = s.charAt(2);
 		System.out.println(charAt);
-	
-		
+	    System.out.println("uytdsftyu");
+	    System.out.println("uytdsftyu");
+	    System.out.println("uytdsftyu");
+	    System.out.println("uytdsftyu");
+	    System.out.println("uytdsftyu");
 		
 		
 		
