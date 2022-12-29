@@ -14,6 +14,11 @@ public class Launch {
 	    System.out.println("uytdsftyu");
 	    System.out.println("uytdsftyu");
 	    System.out.println("uytdsftyu");
+	    boolean contains2 = s.contains("l");
+		System.out.println(contains2);
+		
+		
+		
 		
 		
 		
